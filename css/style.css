@@ -540,22 +540,22 @@ and (max-width: 768px) {
 }
 
 #testimonials #we {
-  background: url(../images/testimonial-1.jpg) no-repeat center center;
+  background: url(../images/testimonial-we.jpg) no-repeat center center;
   background-size: cover;
 }
 
 #testimonials #are {
-  background: url(../images/testimonial-2.jpg) no-repeat center center;
+  background: url(../images/testimonial-are.jpg) no-repeat center center;
   background-size: cover;
 }
 
 #testimonials #here {
-  background: url(../images/testimonial-3.jpg) no-repeat center center;
+  background: url(../images/testimonial-here.jpg) no-repeat center center;
   background-size: cover;
 }
 
 #testimonials #in {
-  background: url(../images/testimonial-4.jpg) no-repeat center center;
+  background: url(../images/testimonial-in.jpg) no-repeat center center;
   background-size: cover;
 }
 
