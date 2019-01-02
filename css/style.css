@@ -539,23 +539,23 @@ and (max-width: 768px) {
   background-color: rgba(239,240,196,.9);
 }
 
-#testimonials #janeh {
+#testimonials #1 {
   background: url(../images/testimonial-1.jpg) no-repeat center center;
   background-size: cover;
 }
 
-#testimonials #johnb {
+#testimonials #2 {
   background: url(../images/testimonial-2.jpg) no-repeat center center;
   background-size: cover;
 }
 
-#testimonials #mcphersons {
+#testimonials #3 {
   background: url(../images/testimonial-3.jpg) no-repeat center center;
   background-size: cover;
 }
 
-#testimonials #lorraines {
-  background: url(../images/testimonial-4git .jpg) no-repeat center center;
+#testimonials #4 {
+  background: url(../images/testimonial-4.jpg) no-repeat center center;
   background-size: cover;
 }
 
